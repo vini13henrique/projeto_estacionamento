@@ -4,5 +4,5 @@
 - [x] Criar repositório privado
 - [x] Configurar Git e .gitignore
 - [x] Criar branches main e develop
-- [ ] Configurar proteção das branches
-- [ ] Criar primeira API Hello World
+- [] Configurar proteção das branches - (foi adotado controle manual pelo git flow)
+- [x] Criar primeira API Hello World
